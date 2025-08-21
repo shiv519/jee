@@ -1,0 +1,11 @@
+# app.py
+streamlit
+PyPDF2
+io
+re
+time
+datetime
+base64
+pandas 
+pipeline
+torch
